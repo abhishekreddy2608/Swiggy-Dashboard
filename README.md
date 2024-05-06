@@ -36,7 +36,7 @@ To use the Swiggy Dashboard, follow these steps:
 
 1. Clone the repository to your local machine.
    ```
-   git clone https://github.com/your-username/swiggy-dashboard.git
+   git clone https://github.com/abhishekreddy2608/swiggy-dashboard.git
    ```
 
 2. [Additional installation steps, if any]
@@ -65,10 +65,3 @@ Contributions to the Swiggy Dashboard are welcome! If you would like to contribu
 
 5. Submit a pull request to the main repository.
 
-## License
-
-[Specify the license under which the project is distributed. For example, MIT License, Apache License, etc.]
-
-[Feel free to add any additional sections or information relevant to your project.]
-
-Please update this README file as necessary to provide accurate and up-to-date information about your Swiggy Dashboard repository.
