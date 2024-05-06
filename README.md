@@ -1,4 +1,3 @@
-Certainly! Based on the information provided in the "Swiggy.pdf" document, here's a revised README file for your GitHub repository:
 
 # Swiggy Dashboard(Power BI Project)
 
